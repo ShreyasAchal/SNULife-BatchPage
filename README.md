@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**URL**: https://lovable.dev/projects/a25ed0ed-fa48-4a92-b4e7-bd2b130a2aa5
+**URL**: [https://lovable.dev/projects/a25ed0ed-fa48-4a92-b4e7-bd2b130a2aa5](https://snulife-batchpage.lovable.app/)
 
 
 ## What technologies are used for this project?
