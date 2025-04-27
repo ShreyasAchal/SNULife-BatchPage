@@ -2,13 +2,17 @@
 
 ## Project Info
 
-**URL**: [https://lovable.dev/projects/a25ed0ed-fa48-4a92-b4e7-bd2b130a2aa5](https://snulife-batchpage.lovable.app/)
+**Live URL**: [https://lovable.dev/projects/a25ed0ed-fa48-4a92-b4e7-bd2b130a2aa5](https://snulife-batchpage.lovable.app/)
 
+## Features
+- Student request and issue tracker with CR dashboard.
+- Batch-wide community posts, course repositories, and academic resources.
+- Interactive academic calendar and personalized timetable view.
+- Fully responsive UI built with modern frameworks.
 
 ## What technologies are used for this project?
 
 This project is built with .
-
 - Vite
 - TypeScript
 - React
@@ -35,11 +39,9 @@ There are multiple ways to edit and contribute to this project.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
 
-**Use your preferred IDE**
-
+**Use your preferred IDE locally**
 You can clone this repo and work locally using any IDE of your choice.
-
-The only requirement is having Node.js & npm installed – [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The only requirement is Node.js & npm installed – [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
