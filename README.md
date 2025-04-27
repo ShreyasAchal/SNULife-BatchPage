@@ -1,5 +1,7 @@
 # SNULife Portal – Student Academic Community Platform
 
+🚧 **Project Status:** Active Development
+
 ## Project Info
 
 **Live URL**: [https://lovable.dev/projects/a25ed0ed-fa48-4a92-b4e7-bd2b130a2aa5](https://snulife-batchpage.lovable.app/)
