@@ -1,1 +1,2 @@
-
+This folder contains the DBMS project documentation for the Student Academic Portal, including the IEEE-format report, ER model, and relational schema. It outlines the database's initial design and system implementation used in the project. 
+Originally conceptualized as a course project, this initiative has since grown into an active collaboration with the university’s Academic Affairs Committee. The goal is to scale the system for institutional use across all batches, establishing a centralized academic management platform at the university level.
