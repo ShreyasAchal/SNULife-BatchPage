@@ -54,6 +54,8 @@ git clone <YOUR_GIT_URL>
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
+© 2025 Suryavedha Pradhan, Vishnu Vardhan Chundu, Shreyas Achal. This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 # Step 3: Install the necessary dependencies.
 npm i
 
