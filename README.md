@@ -6,6 +6,8 @@
 
 **Live URL**: [https://lovable.dev/projects/a25ed0ed-fa48-4a92-b4e7-bd2b130a2aa5](https://snulife-batchpage.lovable.app/)
 
+© 2025 Suryavedha Pradhan, Vishnu Vardhan Chundu, Shreyas Achal. This project is licensed under the MIT License.
+
 ## Features
 - Student request and issue tracker with CR dashboard.
 - Batch-wide community posts, course repositories, and academic resources.
@@ -25,7 +27,6 @@ This project is built with .
 
 There are multiple ways to edit and contribute to this project.
 
-
 **Edit a file directly in GitHub**
 
 - Navigate to the desired file(s).
@@ -40,7 +41,6 @@ There are multiple ways to edit and contribute to this project.
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-
 **Use your preferred IDE locally**
 You can clone this repo and work locally using any IDE of your choice.
 The only requirement is Node.js & npm installed – [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
@@ -53,8 +53,6 @@ git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
-
-© 2025 Suryavedha Pradhan, Vishnu Vardhan Chundu, Shreyas Achal. This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 # Step 3: Install the necessary dependencies.
 npm i
