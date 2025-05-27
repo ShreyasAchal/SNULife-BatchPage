@@ -6,7 +6,7 @@
 
 **Live URL**: [https://lovable.dev/projects/a25ed0ed-fa48-4a92-b4e7-bd2b130a2aa5](https://snulife-batchpage.lovable.app/)
 
-© 2025 Suryavedha Pradhan, Vishnu Vardhan Chundu, Shreyas Achal. This project is licensed under the MIT License.
+© 2025 Shreyas Achal, Suryavedha Pradhan, Vishnu Vardhan Chundu.
 
 ## Features
 - Student request and issue tracker with CR dashboard.
